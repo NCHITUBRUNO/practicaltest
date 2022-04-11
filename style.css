@@ -63,3 +63,34 @@ ol {
     height: 100%;
     font-weight: 200;
     font-family: 'courier';
+}
+img {
+    width: 250px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    overflow: auto;
+}
+p.me {
+    text-align: justify;
+    font-weight: 400;
+    line-height: 1.5;
+    text-indent: 10%;
+}
+
+video {
+    float: right;
+    overflow: auto;
+    width: 200;
+    height: 200;
+    padding: 10px;
+}
+div.me {
+    width: 100%;
+
+}
+.p1 {
+    background-color:  #4CAF50;
+    height: 100px;
+    text-align: center;
+}
